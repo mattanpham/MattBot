@@ -13,18 +13,18 @@ This is a personal bot of mine that sends messages to your server's chatroom bas
 
 <h2>Environments Used </h2>
 
-- <b>Replit</b> (21H2)
+- <b>Replit</b>
 
 <h2>How MattBot is used:</h2>
 
 <p align="center">
 Reaction Commands: <br/>
-<img src="![image](https://github.com/mattanpham/MattBot/assets/117331284/8ef505a7-fd5d-4609-b667-636ffe9eae08)
+<img src="![image](https://github.com/mattanpham/MattBot/assets/117331284/8ef505a7-fd5d-4609-b667-636ffe9eae08.jpg)
 " height="80%" width="80%" alt="MattBot"/>
 <br />
 <br />
 Music Player Commands: <br/>
-<img src="![image](https://github.com/mattanpham/MattBot/assets/117331284/79691996-bfb9-4fa4-9f9e-b69dcc7e87e9)
+<img src="![image](https://github.com/mattanpham/MattBot/assets/117331284/79691996-bfb9-4fa4-9f9e-b69dcc7e87e9.jpg)
 " height="80%" width="80%" alt="MattBot"/>
 <br />
 <br />
