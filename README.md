@@ -19,13 +19,11 @@ This is a personal bot of mine that sends messages to your server's chatroom bas
 
 <p align="center">
 Reaction Commands: <br/>
-<img src="![image](https://github.com/mattanpham/MattBot/assets/117331284/8ef505a7-fd5d-4609-b667-636ffe9eae08.jpg)
-" height="80%" width="80%" alt="MattBot"/>
+<img src="image_2024-05-15_210902008.png" height="80%" width="80%" alt="MattBot"/>
 <br />
 <br />
 Music Player Commands: <br/>
-<img src="![image](https://github.com/mattanpham/MattBot/assets/117331284/79691996-bfb9-4fa4-9f9e-b69dcc7e87e9.jpg)
-" height="80%" width="80%" alt="MattBot"/>
+<img src="image_2024-05-15_210849957.png" height="80%" width="80%" alt="MattBot"/>
 <br />
 <br />
 <!--
