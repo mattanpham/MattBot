@@ -1,4 +1,4 @@
-<h1>MattBot - Your Friendly Discord Companion/h1>
+<h1>MattBot - Your Friendly Discord Companion</h1>
 
 
 <h2>Description</h2>
